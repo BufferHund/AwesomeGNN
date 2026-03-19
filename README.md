@@ -22,6 +22,16 @@ Then answer two practical questions for action-conditioned world modeling on Poi
 
 The goal is not to rebuild the whole paper from scratch, but to produce a defensible course-project study with a clean ablation matrix, reproducible scripts, and conclusions that do not overclaim from weak evaluation.
 
+For the full roadmap beyond the current experiment snapshot, see:
+
+- [docs/COURSE_PROJECT_PLAN.md](/C:/Users/zack/Documents/AwesomeGNN/docs/COURSE_PROJECT_PLAN.md)
+
+That document now separates:
+
+- the minimum defensible course-project scope
+- the stronger empirical validation phase
+- the longer-horizon expanded representation study
+
 ## Current Status
 
 ### Completed
@@ -138,15 +148,15 @@ This estimate assumes no new model integrations and no major WSL/CUDA instabilit
 If you are joining the project now, start here:
 
 - status and runnable commands:
-  [docs/PROJECT_README.md](/C:/Users/zack/Documents/GNN3/docs/PROJECT_README.md)
+  [docs/PROJECT_README.md](/C:/Users/zack/Documents/AwesomeGNN/docs/PROJECT_README.md)
 - exact execution history and engineering fixes:
-  [docs/EXECUTION_LOG.md](/C:/Users/zack/Documents/GNN3/docs/EXECUTION_LOG.md)
+  [docs/EXECUTION_LOG.md](/C:/Users/zack/Documents/AwesomeGNN/docs/EXECUTION_LOG.md)
 - experiment table:
-  [docs/EXPERIMENT_TRACKER.csv](/C:/Users/zack/Documents/GNN3/docs/EXPERIMENT_TRACKER.csv)
+  [docs/EXPERIMENT_TRACKER.csv](/C:/Users/zack/Documents/AwesomeGNN/docs/EXPERIMENT_TRACKER.csv)
 - report draft:
-  [docs/COURSE_REPORT_DRAFT.md](/C:/Users/zack/Documents/GNN3/docs/COURSE_REPORT_DRAFT.md)
+  [docs/COURSE_REPORT_DRAFT.md](/C:/Users/zack/Documents/AwesomeGNN/docs/COURSE_REPORT_DRAFT.md)
 - near-term plan:
-  [docs/COURSE_PROJECT_PLAN.md](/C:/Users/zack/Documents/GNN3/docs/COURSE_PROJECT_PLAN.md)
+  [docs/COURSE_PROJECT_PLAN.md](/C:/Users/zack/Documents/AwesomeGNN/docs/COURSE_PROJECT_PLAN.md)
 
 Recommended working rule:
 
@@ -212,3 +222,4 @@ Please retain attribution to the original authors when sharing derived materials
   year={2024}
 }
 ```
+
